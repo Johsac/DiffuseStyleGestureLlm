@@ -1,0 +1,1 @@
+HUGGINGFACE_TOKEN = "1234" # replace "1234" with huggingface token
